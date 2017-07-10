@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TwitterApp</string>
+    <string name="log_in_error">Error: when logging in</string>
+    <string name="timeline_activity_toolbar_title">Timeline</string>
+    <string name="retrieve_home_timeline_error">We could not retrieve your timeline. Please, try later.</string>
+    <string name="favorite_tweets_activity_toolbar_title">My favorite tweets</string>
+    <string name="tweet_added_to_favorites">Tweet added to favorites</string>
+    <string name="tweet_added_to_favorites_error">Error when adding tweet to favorites</string>
+    <string name="tweet_removed_from_favorites">Tweet removed from favorites</string>
+    <string name="tweet_removed_from_favorites_error">Error when removing tweet from favorites</string>
+    <string name="tweet_favorites_error">Error when adding tweet to favorites</string>
+
+                                    <!-- TWITTER CREDENTIALS -->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">oLt9csXcjhHtpPRfuS4WyBZNV</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">HnoOzXgUKOIfDOWhgeEBhcEVXXvrIdWTiWcGnQAm8YzoAV9pG2</string>
+    <string name="profile_following_title">%1$d Following</string>
+    <string name="profile_followers_title">%1$d Followers</string>
+    <string name="empty_favorite_tweets">You have no favorite tweets yet</string>
+</resources>
